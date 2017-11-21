@@ -12,12 +12,13 @@
 - 语言：
 	- 熟悉HTML：知道HTML中常用的meta，理解标签语义化和HTML的渲染解析过程。
 	- 熟悉CSS：能实现组件的具体样式和常见布局，熟悉scss语法和知道css-module的原理。
-	- 熟悉Javascript: 看过《EloquentJavaScript》和《Javascript编程精粹》。看书期间，有坚持做[习题](https://github.com/FourEyebrowXiake/Eloquent-JavaScript-Exercise)和写[博客](http://foureyebrowxiake.github.io/)。
+	- 熟悉Javascript: 看过《EloquentJavaScript》和《Javascript编程精粹》。看书期间，有坚持做[习题](https://github.com/FourEyebrowXiake/Eloquent-JavaScript-Exercise)和写[博客](http://foureyebrowxiake.github.io/)。 知道JS闭包的底层运行机制和了解函数式编程。
 
 	- 了解Java：独立完成过一个完整的Android应用：[Hot Movie](https://github.com/FourEyebrowXiake/HotMovie)。
 - 框架： 熟悉React，当前的博客就是用react写的。在egghead.io上听完了redux作者的基础课，并且看完了redux官方文档的高级部分，了解redux的整个运转过程。
 
 - 工具： 开发中常用 git 、webpack、atom和Android studio。
+
 - 有不错的自学能力：阅读经典书籍，写博客。课外积极的在course，Udacity上学习。现在正在学习斯坦福的cs142:web application，来完善自己的知识体系。
 
 ## 项目经历
