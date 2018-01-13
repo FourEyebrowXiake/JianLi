@@ -1,14 +1,12 @@
 # 简历
-[线上简历](https://github.com/FourEyebrowXiake/JianLi)
 
-应聘职位：前端开发实习生
+应聘职位：前端开发工程师
 ## 个人信息
 林锦，男，1995年生，2018年本科毕业生，就读于厦门大学嘉庚学院,计算机与科学技术专业。
 - 手机：18859693867
 - Email: fourfishxiake@gmail.com
 - Blog: [http://foureyebrowxiake.github.io/](http://foureyebrowxiake.github.io/)
 - Github: [https://github.com/FourEyebrowXiake](https://github.com/FourEyebrowXiake)
-- 知乎重度用户：[四条眉毛](https://www.zhihu.com/people/fish-86-23/activities)
 
 #### 能力简述
 - 语言：
@@ -31,7 +29,7 @@
 	2. 设计state树。保证一个模块只控制一个state。使用范式化的数据结构存储state数据，并保证state树形结构扁平。
 	3. 设计action的构造函数和reducer。
 	4. 开始构建实际应用。期间使用了redux Devtool等辅助工具来提高开发效率。
-- 结果：项目顺利完成。期间实践了不少redux的新特性，使代码更加简洁。尝试了新版的react-route，get到了新技能，如通过url控制组件內状态。当然，还有不少不足。如没有考虑React组件的性能优化，正借助React perf来进行优化，并使用reselect提供数据获取性能。
+- 结果：项目顺利完成。期间实践了不少redux的新特性，使代码更加简洁。尝试了新版的react-route，get到了新技能，如通过url控制组件內状态。当然，还有不少不足。如没有考虑React组件的性能优化，正借助React perf来进行优化，并使用reselect提供数据获取性能。
 
 
 #### [个人博客](foureyebrowxiake.github.io)（[https://github.com/FourEyebrowXiake/MyNewBlog](https://github.com/FourEyebrowXiake/MyNewBlog)）
