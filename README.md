@@ -17,23 +17,21 @@
 	- 熟悉Javascript: 看过《EloquentJavaScript》和《Javascript编程精粹》。看书期间，有坚持做[习题](https://github.com/FourEyebrowXiake/Eloquent-JavaScript-Exercise)和写[博客](http://foureyebrowxiake.github.io/)。
 
 	- 了解Java：独立完成过一个完整的Android应用：[Hot Movie](https://github.com/FourEyebrowXiake/HotMovie)。
-- 框架： 熟悉React，当前的博客就是用react写的。在egghead.io上听完了redux作者的基础课，了解redux的整个运转过程。
-
-- 工具： 开发中常用 git 、webpack、atom和Android studio。
+- 框架： 熟悉React，当前的博客就是用react写的。在egghead.io上听完了redux作者的基础课，并有redux的实际开发经验。
+- 工具： 开发中常用 git 、webpack、vscode 和Android studio。
 - 有不错的自学能力：阅读经典书籍，写博客。课外积极的在course，Udacity上学习。现在正在学习斯坦福的cs142:web application，来完善自己的知识体系。
 
 
 ## 项目经历
 #### Readable ([https://github.com/FourEyebrowXiake/Readable](https://github.com/FourEyebrowXiake/Readable))
 
-- 情景：为了加深对redux的了解，采用react和redux构建一个小型社区类网站的前端。
-- 动作：用react构建前端的view，用redux管理缓存的数据。应用状态的更新通过向Reducer派遣Action来触发。项目还使用了ant-design库，来提高用户体验，顺便也提高了我的开发体验。
-- 结果：项目顺利完成，却发现了更多的问题。
-	1. 虽然有按功能组织代码，但是并没有确定模块边界。
-	2. 状态树设计欠佳，且没有树立正确的项目构建思路。应该依次考虑tree state, action, reducer, view，因为这样有利于模块化软件。
-	3. 没有考虑React组件的性能优化，准备借助React perf来进行优化。
-
-	路还很远，正在赶路中。
+- 情景：为了加深对redux的了解，采用react和redux构建一个小型社区类网站的前端。网站的文章和评论要能编辑、排序，删除和创建。发挥单页面应用的优点，提高网站的响应速度。
+- 动作：
+	1. 按功能组织代码文件，并确定各个模块的边界；
+	2. 设计state树。保证一个模块只控制一个state。使用范式化的数据结构存储state数据，并保证state树形结构扁平。
+	3. 设计action的构造函数和reducer。
+	4. 开始构建实际应用。期间使用了redux Devtool等辅助工具来提高开发效率。
+- 结果：项目顺利完成。期间实践了不少redux的新特性，使代码更加简洁。尝试了新版的react-route，get到了新技能，如通过url控制组件內状态。当然，还有不少不足。如没有考虑React组件的性能优化，正借助React perf来进行优化，并使用reselect提供数据获取性能。
 
 
 #### [个人博客](foureyebrowxiake.github.io)（[https://github.com/FourEyebrowXiake/MyNewBlog](https://github.com/FourEyebrowXiake/MyNewBlog)）
