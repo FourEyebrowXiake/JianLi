@@ -32,7 +32,7 @@
 - 结果：项目顺利完成。期间实践了不少redux的新特性，使代码更加简洁。尝试了新版的react-route，get到了新技能，如通过url控制组件內状态。当然，还有不少不足。如没有考虑React组件的性能优化，正借助React perf来进行优化，并使用reselect提供数据获取性能。
 
 
-#### [个人博客](foureyebrowxiake.github.io)（[https://github.com/FourEyebrowXiake/MyNewBlog](https://github.com/FourEyebrowXiake/MyNewBlog)）
+#### [个人博客](https://foureyebrowxiake.github.io/)（[https://github.com/FourEyebrowXiake/MyNewBlog](https://github.com/FourEyebrowXiake/MyNewBlog)）
 - 情景: 为了实践React的知识，准备写一个静态博客练手。使用静态博客生成器Gatsby来搭建博客，省去配置webpack的麻烦。你可以在里面写redux和react，像平常一样，还可以直接使用Graphql获取数据，再传给组件。
 
 - 动作: 我用react构建了四个基本页面。组件在页面间复用，以减少代码量。用Gatsby提供的插件加载文件，接着将Markdown文件渲染成网页。用graphql查询数据，并把数据传给组件。期间遇到几次
