@@ -20,6 +20,7 @@
   - 熟悉 CSS：能实现组件的具体样式和常见布局，熟悉 sass。
 
   - 熟悉 Javascript: 看过《EloquentJavaScript》，《Javascript 编程精粹》和《你不知道的 javascript 上》。看书期间，有坚持做[习题](https://github.com/FourEyebrowXiake/Eloquent-JavaScript-Exercise)和写[博客](http://foureyebrowxiake.github.io/)。
+  - 了解java：独立完成过一个android应用：[HotMovie](https://github.com/FourEyebrowXiake/HotMovie)
 
 - 框架： 熟悉 React，当前的博客就是用 react 写的。在 egghead.io 上听完了 redux 作者的基础课，并有 redux 的实际开发经验。
 - 工具： 开发中常用 git 、webpack、vscode 和 Android studio。
@@ -36,6 +37,7 @@
 	2. 设计 state 树。保证一个模块只控制一个 state。使用范式化的数据结构存储 state 数据，并保证 state 树形结构扁平。 
 	3. 设计 action 的构造函数和 reducer。 
 	4. 开始构建实际应用。期间使用了 redux Devtool 等辅助工具来提高开发效率。
+	
 * 结果：项目顺利完成。期间实践了不少 redux 的新特性，使代码更加简洁。尝试了新版的 react-route，get 到了新技能，如通过 url 控制组件內状态。当然，还有不少不足。如没有考虑 React 组件的性能优化，正借助 React perf 来进行优化，并使用 reselect 提供数据获取性能。
 
 #### [个人博客](https://foureyebrowxiake.github.io/)（[https://github.com/FourEyebrowXiake/MyNewBlog](https://github.com/FourEyebrowXiake/MyNewBlog)）
@@ -50,5 +52,5 @@
 
 * 情景：实践 Node.js 和 Mongodb 等知识，构建一个博客的 REST API。
 
-* 动作：使用 Express 搭建 REST API，配合 Mongodb 存储数据。最后，把项目部署到阿里云上。地址是“47.94.252.67”,API 详情请见[Github](https://github.com/FourEyebrowXiake/REST-API)。
+* 动作：使用 Express 搭建 REST API，配合 Mongodb 存储数据。API 详情请见[here](https://github.com/FourEyebrowXiake/REST-API)。
 * 结果：完成了基本功能，如修改评论、投票，上传问题等。并通过增加一组 HTTP 首部字段，允许服务器声明哪些源站有权限访问哪些资源，来筛选跨域请求。
