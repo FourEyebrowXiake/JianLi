@@ -1,4 +1,4 @@
-# 简历
+# [简历](https://github.com/FourEyebrowXiake/JianLi/blob/master/README.md)
 
 应聘职位：前端开发工程师
 
@@ -6,7 +6,7 @@
 
 林锦，男，1995 年生，2018 年本科毕业生，就读于厦门大学嘉庚学院,计算机与科学技术专业。
 
-* 手机：18859693867
+* 手机：13175081763
 * Email: fourfishxiake@gmail.com
 * Blog: [https://foureyebrowxiake.github.io/](https://foureyebrowxiake.github.io/)
 * Github: [https://github.com/FourEyebrowXiake](https://github.com/FourEyebrowXiake)
@@ -37,7 +37,7 @@
 	2. 设计 state 树。保证一个模块只控制一个 state。使用范式化的数据结构存储 state 数据，并保证 state 树形结构扁平。 
 	3. 设计 action 的构造函数和 reducer。 
 	4. 开始构建实际应用。期间使用了 redux Devtool 等辅助工具来提高开发效率。
-	
+
 * 结果：项目顺利完成。期间实践了不少 redux 的新特性，使代码更加简洁。尝试了新版的 react-route，get 到了新技能，如通过 url 控制组件內状态。当然，还有不少不足。如没有考虑 React 组件的性能优化，正借助 React perf 来进行优化，并使用 reselect 提供数据获取性能。
 
 #### [个人博客](https://foureyebrowxiake.github.io/)（[https://github.com/FourEyebrowXiake/MyNewBlog](https://github.com/FourEyebrowXiake/MyNewBlog)）
