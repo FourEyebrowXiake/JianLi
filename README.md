@@ -6,7 +6,7 @@
 
 林锦，男，1995 年生，2018 年本科毕业生，就读于厦门大学嘉庚学院,计算机与科学技术专业。
 
-* 手机：13175081763
+* 手机：18859693867
 * Email: fourfishxiake@gmail.com
 * Blog: [https://foureyebrowxiake.github.io/](https://foureyebrowxiake.github.io/)
 * Github: [https://github.com/FourEyebrowXiake](https://github.com/FourEyebrowXiake)
