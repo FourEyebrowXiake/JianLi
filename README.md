@@ -18,7 +18,7 @@
 
   - 熟悉 HTML：知道 HTML 中常用的 meta，理解标签语义化和 HTML 的渲染解析过程。
 
-  - 熟悉 CSS：能实现组件的具体样式和常见布局，熟悉 sass。
+  - 熟悉 CSS：能实现组件的具体样式和常见布局，熟悉 sass 和 Flexbox，看过《CSS设计指南》。
 
   - 熟悉 Javascript: 看过《EloquentJavaScript》，《Javascript 编程精粹》和《你不知道的 javascript 上》。看书期间，有坚持做[习题](https://github.com/FourEyebrowXiake/Eloquent-JavaScript-Exercise)和写[博客](http://foureyebrowxiake.github.io/)。
   - 了解java：独立完成过一个android应用：[HotMovie](https://github.com/FourEyebrowXiake/HotMovie)
