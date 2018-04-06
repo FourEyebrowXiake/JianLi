@@ -1,4 +1,5 @@
-# [简历](https://github.com/FourEyebrowXiake/JianLi/blob/master/README.md)
+# 简历
+[线上简历](https://github.com/FourEyebrowXiake/JianLi/blob/master/README.md)
 
 应聘职位：前端开发工程师
 
@@ -23,7 +24,7 @@
   - 了解java：独立完成过一个android应用：[HotMovie](https://github.com/FourEyebrowXiake/HotMovie)
 
 - 框架： 熟悉 React，当前的博客就是用 react 写的。在 egghead.io 上听完了 redux 作者的基础课，并有 redux 的实际开发经验。
-- 工具： 开发中常用 git 、webpack、vscode 和 Android studio。
+- 工具： 开发中常用 git 、webpack 和 vscode 。
 - 有不错的自学能力：阅读经典书籍，写博客，在coursera和Udacity 上完成了3门课程。
 
 ## 实习经历
@@ -36,7 +37,7 @@
 ### Readable ([https://github.com/FourEyebrowXiake/Readable](https://github.com/FourEyebrowXiake/Readable))
 
 ### 情景：为了加深对 react技术栈的了解，并熟悉前后端的整个开发流程，采用 react，redux和Node.js构建了一个小型社区类网站。
-
+
 #### 前端方面：
 * 动作： 
 	1. 按功能组织代码文件，并确定各个模块的边界。
